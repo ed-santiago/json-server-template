@@ -1,244 +1,267 @@
 {
-  "products": [
+  "users": [
     {
       "id": 1,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
+      "name": "Edmond Santiago",
+      "profilePicture": "https://t4.ftcdn.net/jpg/05/62/99/31/360_F_562993122_e7pGkeY8yMfXJcRmclsoIjtOoVDDgIlh.jpg",
+      "dob": "29/04/1999",
+      "address": "6675 Cox Trail, Port Graceland, Northern Territory 5654, Australia",
+      "friends": 205,
+      "workplace": "Software Engineer at Google"
     },
     {
       "id": 2,
-      "title": "Mens Casual Premium Slim Fit T-Shirts ",
-      "price": 22.3,
-      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-      "rating": {
-        "rate": 4.1,
-        "count": 259
-      }
+      "name": "Otha Suarez",
+      "profilePicture": "https://newprofilepic.photo-cdn.net//assets/images/article/profile.jpg?90af0c8",
+      "dob": "16/06/1995",
+      "address": "899 Hessel Grove, New Taylorland, South Australia 9185, Australia",
+      "friends": 774,
+      "workplace": "High School Teacher at St James High"
     },
     {
       "id": 3,
-      "title": "Mens Cotton Jacket",
-      "price": 55.99,
-      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 500
-      }
+      "name": "Velma Martinez",
+      "profilePicture": "https://images.squarespace-cdn.com/content/v1/580838ebd482e9d2da222c53/1494506230878-DV28F1JO3EC6ZBISSW0E/image-asset.png",
+      "dob": "08/09/1986",
+      "address": "535 Ryan Grove, Hermistonberg, South Australia 7889, Australia",
+      "friends": 361,
+      "workplace": "Substance Abuse Counselor at DrugHelp"
     },
     {
       "id": 4,
-      "title": "Mens Casual Slim Fit",
-      "price": 15.99,
-      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-      "rating": {
-        "rate": 2.1,
-        "count": 430
-      }
+      "name": "Timothy Buck",
+      "profilePicture": "https://i.pinimg.com/736x/c1/6e/88/c16e886fcb1cd1d5f764158e9b7b4234.jpg",
+      "dob": "22/03/1994",
+      "address": "28639 Bayer Crest, Lake Jake, New South Wales 7281, Australia",
+      "friends": 460,
+      "workplace": "Fitness Trainer at Anytime Fitness"
     },
     {
       "id": 5,
-      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-      "price": 695,
-      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 4.6,
-        "count": 400
-      }
+      "name": "Darrick Smith",
+      "profilePicture": "https://reviews.tn/wp-content/uploads/2021/05/photo-de-profil-aesthetic-gars_12.jpg",
+      "dob": "03/01/1998",
+      "address": "93376 Johnson Parkway, Larsonhaven, Victoria 7904, Australia",
+      "friends": 508,
+      "workplace": "Recreation & Fitness Worker at Plus Fitness"
     },
     {
       "id": 6,
-      "title": "Solid Gold Petite Micropave ",
-      "price": 168,
-      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 70
-      }
+      "name": "Darla Knight",
+      "profilePicture": "https://i.pinimg.com/564x/59/ef/6e/59ef6e3efdc2cb6991bbe4e98bc54690.jpg",
+      "dob": "08/02/1991",
+      "address": "5721 Reynolds Terrace, Sophiebury, Australian Capital Territory 9541, Australia",
+      "friends": 294,
+      "workplace": "Web Developer at Wix"
     },
     {
       "id": 7,
-      "title": "White Gold Plated Princess",
-      "price": 9.99,
-      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 3,
-        "count": 400
-      }
+      "name": "Edward Hines",
+      "profilePicture": "https://i.pinimg.com/736x/22/2b/5a/222b5ae2f7b5f71edf869141fb3d8e3a.jpg",
+      "dob": "25/08/1996",
+      "address": "63453 Lilly Circle, Grahamland, Tasmania 4446, Australia",
+      "friends": 629,
+      "workplace": "Budget analyst at AAMI"
     },
     {
       "id": 8,
-      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-      "price": 10.99,
-      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 1.9,
-        "count": 100
-      }
+      "name": "William Sampson",
+      "profilePicture": "https://i.pinimg.com/736x/f4/21/50/f421500a7415eaad89312d807e482631.jpg",
+      "dob": "11/07/1981",
+      "address": "99285 Kirlin View Rd, Port Hayleystad, Tasmania 7362, Australia",
+      "friends": 216,
+      "workplace": "Automotive mechanic at CarParts"
     },
     {
       "id": 9,
-      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-      "price": 64,
-      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
-      "rating": {
-        "rate": 3.3,
-        "count": 203
-      }
+      "name": "Chiyoe Tamada",
+      "profilePicture": "https://i.pinimg.com/736x/0d/92/ba/0d92ba3e84b9f15dea2659fb4d8b6dfd.jpg",
+      "dob": "19/11/1998",
+      "address": "7806 Lola Run, Boyleview, New South Wales 9423, Australia",
+      "friends": 849,
+      "workplace": "Junior Garment Technician at GUCCI"
     },
     {
       "id": 10,
-      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-      "price": 109,
-      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 470
-      }
+      "name": "Junwei Lang",
+      "profilePicture": "https://i.pinimg.com/736x/a0/3f/c6/a03fc6071c978b48e38ec68e88bc6c9c.jpg",
+      "dob": "10/12/1993",
+      "address": "0765 Hansen Hill, Port Tyler, New South Wales 5805, Australia",
+      "friends": 971,
+      "workplace": "Quality Control Assistant at Fashion & Apparel"
     },
     {
       "id": 11,
-      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
-      "price": 109,
-      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
-      "rating": {
-        "rate": 4.8,
-        "count": 319
-      }
+      "name": "Ramlah Razi",
+      "profilePicture": "https://i.pinimg.com/736x/80/22/98/8022987874bc8f3b5ad10bd5d2039293.jpg",
+      "dob": "05/05/1997",
+      "address": "9619 Hartmann Station St, South Jett, South Australia 8119, Australia",
+      "friends": 663,
+      "workplace": "Photographer - Freelancer"
     },
     {
       "id": 12,
-      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
-      "price": 114,
-      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 4.8,
-        "count": 400
-      }
+      "name": "Somkhuan Nan",
+      "profilePicture": "https://i.pinimg.com/originals/d2/67/c0/d267c04bf9a27c1d7cc6a8f8162df120.jpg",
+      "dob": "01/07/1996",
+      "address": "85227 Carter Street, South Cody, South Australia 4684, Australia",
+      "friends": 525,
+      "workplace": "Lawyer at Aus Gov"
     },
     {
       "id": 13,
-      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-      "price": 599,
-      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 250
-      }
+      "name": "Missy Wiggins",
+      "profilePicture": "https://i.pinimg.com/736x/e4/d0/71/e4d071e1dd5afba9a2f117b9d32d510d.jpg",
+      "dob": "04/04/1999",
+      "address": "082 Hamish Court, New Isaacport, Australian Capital Territory 5582, Australia",
+      "friends": 102,
+      "workplace": "Accountant at Taxes and Things"
     },
     {
       "id": 14,
-      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
-      "price": 999.99,
-      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 2.2,
-        "count": 140
-      }
+      "name": "Bhagat Singh",
+      "profilePicture": "https://i.pinimg.com/736x/2c/3e/07/2c3e07d64c1d6165c9406c690afc710e.jpg",
+      "dob": "13/09/2000",
+      "address": "1562 Berge Estate Dr, Port Zara, Victoria 7719, Australia",
+      "friends": 347,
+      "workplace": "Budget Analyst at Budget Direct"
     },
     {
       "id": 15,
-      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-      "price": 56.99,
-      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
-      "rating": {
-        "rate": 2.6,
-        "count": 235
-      }
+      "name": "Judy Hoover",
+      "profilePicture": "https://i.pinimg.com/originals/7d/9f/53/7d9f53284055311fc0317b8abda7e47e.jpg",
+      "dob": "17/10/2000",
+      "address": "217 Tromp Summit, Lake Annabellemouth, Victoria 3084, Australia",
+      "friends": 299,
+      "workplace": "Hair Dresser at ScissorHands"
+    }
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "profilePicture": "https://newprofilepic.photo-cdn.net//assets/images/article/profile.jpg?90af0c8",
+      "name": "Otha Suarez",
+      "post": "Today was a very special day. Celebrating Christmas with family and friends! Here is a video of me admiring this amazing gift from my daughter.",
+      "media": "videos/women-christmas-gift.mp4",
+      "likes": 8,
+      "comments": [
+        {
+          "name": "Velma Martinez",
+          "comment": "That looks wonderful! Have a very Merry Christmas and Happy New Year from the Martinez!"
+        }
+      ]
     },
     {
-      "id": 16,
-      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
-      "price": 29.95,
-      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 340
-      }
+      "id": 2,
+      "profilePicture": "https://i.pinimg.com/736x/c1/6e/88/c16e886fcb1cd1d5f764158e9b7b4234.jpg",
+      "name": "Timothy Buck",
+      "post": "Hello family and friends, I would like to remind all of you why we celebrate Christmas. Christmas is celebrated to remember the birth of Jesus Christ, who Christians believe is the Son of God. The name 'Christmas' comes from the Mass of Christ (or Jesus). A Mass service (which is sometimes called Communion or Eucharist) is where Christians remember that Jesus died for us and then came back to life. Merry Christmas to you all!",
+      "media": [],
+      "likes": 4,
+      "comments": [
+        {
+          "name": "Wendell Floyd",
+          "comment": "Good on you, buddy! Merry Christmas to you too!"
+        },
+        {
+          "name": "Angela Li",
+          "comment": "Spot on! People tend to forget the reason for the season haha"
+        }
+      ]
     },
     {
-      "id": 17,
-      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
-      "price": 39.99,
-      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
-      "rating": {
-        "rate": 3.8,
-        "count": 679
-      }
+      "id": 3,
+      "profilePicture": "https://reviews.tn/wp-content/uploads/2021/05/photo-de-profil-aesthetic-gars_12.jpg",
+      "name": "Darrick Smith",
+      "post": "As the year comes close to another yet quick ending, I just wanna give a big big shout-out to my family and friends for being with me during this rough year.",
+      "media": "https://thumbs.dreamstime.com/b/portrait-family-friends-hiking-adventure-forest-119413514.jpg",
+      "likes": 5,
+      "comments": [
+        {
+          "name": "Tyree Hatfield",
+          "comment": "Nex year is your year :)"
+        },
+        {
+          "name": "Roberta Crawford",
+          "comment": "Always nice to have you as a friend Darrick!"
+        }
+      ]
     },
     {
-      "id": 18,
-      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
-      "price": 9.85,
-      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 130
-      }
+      "id": 4,
+      "profilePicture": "https://i.pinimg.com/564x/59/ef/6e/59ef6e3efdc2cb6991bbe4e98bc54690.jpg",
+      "name": "Darla Knight",
+      "post": "Who else is going to visit the fireworks tonight??",
+      "media": [],
+      "likes": 12,
+      "comments": [
+        {
+          "name": "Art Mcdonald",
+          "comment": "Going with the family"
+        },
+        {
+          "name": "Elise Rowe",
+          "comment": "Going there tonight, husband hasn't seen it yet haha"
+        },
+        {
+          "name": "Clark Salinas",
+          "comment": "me!"
+        },
+        {
+          "name": "Ursula Carpenter",
+          "comment": "Hopefully we bump into each other"
+        }
+      ]
     },
     {
-      "id": 19,
-      "title": "Opna Women's Short Sleeve Moisture",
-      "price": 7.95,
-      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
-      "rating": {
-        "rate": 4.5,
-        "count": 146
-      }
+      "id": 5,
+      "profilePicture": "https://i.pinimg.com/736x/22/2b/5a/222b5ae2f7b5f71edf869141fb3d8e3a.jpg",
+      "name": "Edward Hines",
+      "post": "Life's going too fast...",
+      "media": [],
+      "likes": 3,
+      "comments": []
     },
     {
-      "id": 20,
-      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
-      "price": 12.99,
-      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
-      "rating": {
-        "rate": 3.6,
-        "count": 145
-      }
+      "id": 6,
+      "profilePicture": "https://i.pinimg.com/736x/0d/92/ba/0d92ba3e84b9f15dea2659fb4d8b6dfd.jpg",
+      "name": "Chiyoe Tamada",
+      "post": "Selling this white elegant dress, pm me for details.",
+      "media": "https://i.pinimg.com/originals/9a/16/dd/9a16dd06bca83128a2224aa17b8b2f03.jpg",
+      "likes": 57,
+      "comments": [
+        {
+          "name": "June Hill",
+          "comment": "pm"
+        },
+        {
+          "name": "Vicki Ramirez",
+          "comment": "how much?"
+        },
+        {
+          "name": "Natasha Chang",
+          "comment": "want please"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "profilePicture": "https://i.pinimg.com/736x/80/22/98/8022987874bc8f3b5ad10bd5d2039293.jpg",
+      "name": "Ramlah Razi",
+      "post": "Japan was amazing!",
+      "media": "https://www.michitravel.com/customtravel/FamilyTravelJapan11.JPG",
+      "likes": 29,
+      "comments": [
+        {
+          "name": "Refugio Sparks",
+          "comment": "Lovely picture"
+        },
+        {
+          "name": "Darrell Rosales",
+          "comment": "Going there this June"
+        }
+      ]
     }
   ]
 }
