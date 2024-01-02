@@ -7,8 +7,7 @@
       "dob": "29/04/1999",
       "address": "6675 Cox Trail, Port Graceland, Northern Territory 5654, Australia",
       "friends": 205,
-      "workplace": "Software Engineer at Google",
-      "friend": false
+      "workplace": "Software Engineer at Google"
     },
     {
       "id": 2,
@@ -17,8 +16,7 @@
       "dob": "16/06/1995",
       "address": "899 Hessel Grove, New Taylorland, South Australia 9185, Australia",
       "friends": 774,
-      "workplace": "High School Teacher at St James High",
-      "friend": false
+      "workplace": "High School Teacher at St James High"
     },
     {
       "id": 3,
@@ -27,8 +25,7 @@
       "dob": "08/09/1986",
       "address": "535 Ryan Grove, Hermistonberg, South Australia 7889, Australia",
       "friends": 361,
-      "workplace": "Substance Abuse Counselor at DrugHelp",
-      "friend": false
+      "workplace": "Substance Abuse Counselor at DrugHelp"
     },
     {
       "id": 4,
@@ -37,8 +34,7 @@
       "dob": "22/03/1994",
       "address": "28639 Bayer Crest, Lake Jake, New South Wales 7281, Australia",
       "friends": 460,
-      "workplace": "Fitness Trainer at Anytime Fitness",
-      "friend": false
+      "workplace": "Fitness Trainer at Anytime Fitness"
     },
     {
       "id": 5,
@@ -47,8 +43,7 @@
       "dob": "03/01/1998",
       "address": "93376 Johnson Parkway, Larsonhaven, Victoria 7904, Australia",
       "friends": 508,
-      "workplace": "Recreation & Fitness Worker at Plus Fitness",
-      "friend": false
+      "workplace": "Recreation & Fitness Worker at Plus Fitness"
     },
     {
       "id": 6,
@@ -57,8 +52,7 @@
       "dob": "08/02/1991",
       "address": "5721 Reynolds Terrace, Sophiebury, Australian Capital Territory 9541, Australia",
       "friends": 294,
-      "workplace": "Web Developer at Wix",
-      "friend": false
+      "workplace": "Web Developer at Wix"
     },
     {
       "id": 7,
@@ -67,8 +61,7 @@
       "dob": "25/08/1996",
       "address": "63453 Lilly Circle, Grahamland, Tasmania 4446, Australia",
       "friends": 629,
-      "workplace": "Budget analyst at AAMI",
-      "friend": false
+      "workplace": "Budget analyst at AAMI"
     },
     {
       "id": 8,
@@ -77,8 +70,7 @@
       "dob": "11/07/1981",
       "address": "99285 Kirlin View Rd, Port Hayleystad, Tasmania 7362, Australia",
       "friends": 216,
-      "workplace": "Automotive mechanic at CarParts",
-      "friend": false
+      "workplace": "Automotive mechanic at CarParts"
     },
     {
       "id": 9,
@@ -87,8 +79,7 @@
       "dob": "19/11/1998",
       "address": "7806 Lola Run, Boyleview, New South Wales 9423, Australia",
       "friends": 849,
-      "workplace": "Junior Garment Technician at GUCCI",
-      "friend": false
+      "workplace": "Junior Garment Technician at GUCCI"
     },
     {
       "id": 10,
@@ -97,8 +88,7 @@
       "dob": "10/12/1993",
       "address": "0765 Hansen Hill, Port Tyler, New South Wales 5805, Australia",
       "friends": 971,
-      "workplace": "Quality Control Assistant at Fashion & Apparel",
-      "friend": false
+      "workplace": "Quality Control Assistant at Fashion & Apparel"
     },
     {
       "id": 11,
@@ -107,8 +97,7 @@
       "dob": "05/05/1997",
       "address": "9619 Hartmann Station St, South Jett, South Australia 8119, Australia",
       "friends": 663,
-      "workplace": "Photographer - Freelancer",
-      "friend": false
+      "workplace": "Photographer - Freelancer"
     },
     {
       "id": 12,
@@ -117,8 +106,7 @@
       "dob": "01/07/1996",
       "address": "85227 Carter Street, South Cody, South Australia 4684, Australia",
       "friends": 525,
-      "workplace": "Lawyer at Aus Gov",
-      "friend": false
+      "workplace": "Lawyer at Aus Gov"
     },
     {
       "id": 13,
@@ -127,8 +115,7 @@
       "dob": "04/04/1999",
       "address": "082 Hamish Court, New Isaacport, Australian Capital Territory 5582, Australia",
       "friends": 102,
-      "workplace": "Accountant at Taxes and Things",
-      "friend": false
+      "workplace": "Accountant at Taxes and Things"
     },
     {
       "id": 14,
@@ -137,8 +124,7 @@
       "dob": "13/09/2000",
       "address": "1562 Berge Estate Dr, Port Zara, Victoria 7719, Australia",
       "friends": 347,
-      "workplace": "Budget Analyst at Budget Direct",
-      "friend": false
+      "workplace": "Budget Analyst at Budget Direct"
     },
     {
       "id": 15,
@@ -147,8 +133,7 @@
       "dob": "17/10/2000",
       "address": "217 Tromp Summit, Lake Annabellemouth, Victoria 3084, Australia",
       "friends": 299,
-      "workplace": "Hair Dresser at ScissorHands",
-      "friend": false
+      "workplace": "Hair Dresser at ScissorHands"
     }
   ],
 
