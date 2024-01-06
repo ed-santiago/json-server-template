@@ -2,153 +2,143 @@
   "users": [
     {
       "id": 1,
-      "name": "Edmond Santiago",
-      "profilePicture": "https://t4.ftcdn.net/jpg/05/62/99/31/360_F_562993122_e7pGkeY8yMfXJcRmclsoIjtOoVDDgIlh.jpg",
-      "dob": "29/04/1999",
-      "address": "6675 Cox Trail, Port Graceland, Northern Territory 5654, Australia",
-      "friends": 205,
-      "workplace": "Software Engineer at Google",
-      "friend": false
-    },
-    {
-      "id": 2,
       "name": "Otha Suarez",
       "profilePicture": "https://newprofilepic.photo-cdn.net//assets/images/article/profile.jpg?90af0c8",
       "dob": "16/06/1995",
       "address": "899 Hessel Grove, New Taylorland, South Australia 9185, Australia",
       "friends": 774,
       "workplace": "High School Teacher at St James High",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Velma Martinez",
       "profilePicture": "https://images.squarespace-cdn.com/content/v1/580838ebd482e9d2da222c53/1494506230878-DV28F1JO3EC6ZBISSW0E/image-asset.png",
       "dob": "08/09/1986",
       "address": "535 Ryan Grove, Hermistonberg, South Australia 7889, Australia",
       "friends": 361,
       "workplace": "Substance Abuse Counselor at DrugHelp",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Timothy Buck",
       "profilePicture": "https://i.pinimg.com/736x/c1/6e/88/c16e886fcb1cd1d5f764158e9b7b4234.jpg",
       "dob": "22/03/1994",
       "address": "28639 Bayer Crest, Lake Jake, New South Wales 7281, Australia",
       "friends": 460,
       "workplace": "Fitness Trainer at Anytime Fitness",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Darrick Smith",
       "profilePicture": "https://reviews.tn/wp-content/uploads/2021/05/photo-de-profil-aesthetic-gars_12.jpg",
       "dob": "03/01/1998",
       "address": "93376 Johnson Parkway, Larsonhaven, Victoria 7904, Australia",
       "friends": 508,
       "workplace": "Recreation & Fitness Worker at Plus Fitness",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Darla Knight",
       "profilePicture": "https://i.pinimg.com/564x/59/ef/6e/59ef6e3efdc2cb6991bbe4e98bc54690.jpg",
       "dob": "08/02/1991",
       "address": "5721 Reynolds Terrace, Sophiebury, Australian Capital Territory 9541, Australia",
       "friends": 294,
       "workplace": "Web Developer at Wix",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Edward Hines",
       "profilePicture": "https://i.pinimg.com/736x/22/2b/5a/222b5ae2f7b5f71edf869141fb3d8e3a.jpg",
       "dob": "25/08/1996",
       "address": "63453 Lilly Circle, Grahamland, Tasmania 4446, Australia",
       "friends": 629,
       "workplace": "Budget analyst at AAMI",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "William Sampson",
       "profilePicture": "https://i.pinimg.com/736x/f4/21/50/f421500a7415eaad89312d807e482631.jpg",
       "dob": "11/07/1981",
       "address": "99285 Kirlin View Rd, Port Hayleystad, Tasmania 7362, Australia",
       "friends": 216,
       "workplace": "Automotive mechanic at CarParts",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "Chiyoe Tamada",
       "profilePicture": "https://i.pinimg.com/736x/0d/92/ba/0d92ba3e84b9f15dea2659fb4d8b6dfd.jpg",
       "dob": "19/11/1998",
       "address": "7806 Lola Run, Boyleview, New South Wales 9423, Australia",
       "friends": 849,
       "workplace": "Junior Garment Technician at GUCCI",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 10,
+      "id": 9,
       "name": "Junwei Lang",
       "profilePicture": "https://i.pinimg.com/736x/a0/3f/c6/a03fc6071c978b48e38ec68e88bc6c9c.jpg",
       "dob": "10/12/1993",
       "address": "0765 Hansen Hill, Port Tyler, New South Wales 5805, Australia",
       "friends": 971,
       "workplace": "Quality Control Assistant at Fashion & Apparel",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 11,
+      "id": 10,
       "name": "Ramlah Razi",
       "profilePicture": "https://i.pinimg.com/736x/80/22/98/8022987874bc8f3b5ad10bd5d2039293.jpg",
       "dob": "05/05/1997",
       "address": "9619 Hartmann Station St, South Jett, South Australia 8119, Australia",
       "friends": 663,
       "workplace": "Photographer - Freelancer",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "Somkhuan Nan",
       "profilePicture": "https://i.pinimg.com/originals/d2/67/c0/d267c04bf9a27c1d7cc6a8f8162df120.jpg",
       "dob": "01/07/1996",
       "address": "85227 Carter Street, South Cody, South Australia 4684, Australia",
       "friends": 525,
       "workplace": "Lawyer at Aus Gov",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 13,
+      "id": 12,
       "name": "Missy Wiggins",
       "profilePicture": "https://i.pinimg.com/736x/e4/d0/71/e4d071e1dd5afba9a2f117b9d32d510d.jpg",
       "dob": "04/04/1999",
       "address": "082 Hamish Court, New Isaacport, Australian Capital Territory 5582, Australia",
       "friends": 102,
       "workplace": "Accountant at Taxes and Things",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 14,
+      "id": 13,
       "name": "Bhagat Singh",
       "profilePicture": "https://i.pinimg.com/736x/2c/3e/07/2c3e07d64c1d6165c9406c690afc710e.jpg",
       "dob": "13/09/2000",
       "address": "1562 Berge Estate Dr, Port Zara, Victoria 7719, Australia",
       "friends": 347,
       "workplace": "Budget Analyst at Budget Direct",
-      "friend": false
+      "friend": true
     },
     {
-      "id": 15,
+      "id": 14,
       "name": "Judy Hoover",
       "profilePicture": "https://i.pinimg.com/originals/7d/9f/53/7d9f53284055311fc0317b8abda7e47e.jpg",
       "dob": "17/10/2000",
       "address": "217 Tromp Summit, Lake Annabellemouth, Victoria 3084, Australia",
       "friends": 299,
       "workplace": "Hair Dresser at ScissorHands",
-      "friend": false
+      "friend": true
     }
   ],
 
