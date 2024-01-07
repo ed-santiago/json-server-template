@@ -150,6 +150,7 @@
       "post": "Today was a very special day. Celebrating Christmas with family and friends! Here is a picture of me admiring this amazing gift from my daughter.",
       "media": "https://www.essence.com/wp-content/uploads/2013/11/images/2013/11/21/169260260.jpg",
       "likes": 8,
+      "liked": false,
       "comments": [
         {
           "name": "Velma Martinez",
@@ -164,6 +165,7 @@
       "post": "Hello family and friends, I would like to remind all of you why we celebrate Christmas. Christmas is celebrated to remember the birth of Jesus Christ, who Christians believe is the Son of God. The name 'Christmas' comes from the Mass of Christ (or Jesus). A Mass service (which is sometimes called Communion or Eucharist) is where Christians remember that Jesus died for us and then came back to life. Merry Christmas to you all!",
       "media": [],
       "likes": 4,
+      "liked": false,
       "comments": [
         {
           "name": "Wendell Floyd",
@@ -182,6 +184,7 @@
       "post": "As the year comes close to another yet quick ending, I just wanna give a big big shout-out to my family and friends for being with me during this rough year.",
       "media": "https://thumbs.dreamstime.com/b/portrait-family-friends-hiking-adventure-forest-119413514.jpg",
       "likes": 5,
+      "liked": false,
       "comments": [
         {
           "name": "Tyree Hatfield",
@@ -200,6 +203,7 @@
       "post": "Who else is going to visit the fireworks tonight??",
       "media": [],
       "likes": 12,
+      "liked": false,
       "comments": [
         {
           "name": "Art Mcdonald",
@@ -226,6 +230,7 @@
       "post": "Life's going too fast...",
       "media": [],
       "likes": 3,
+      "liked": false,
       "comments": []
     },
     {
@@ -235,6 +240,7 @@
       "post": "Selling this white elegant dress, pm me for details.",
       "media": "https://i.pinimg.com/originals/9a/16/dd/9a16dd06bca83128a2224aa17b8b2f03.jpg",
       "likes": 57,
+      "liked": false,
       "comments": [
         {
           "name": "June Hill",
@@ -257,6 +263,7 @@
       "post": "Japan was amazing!",
       "media": "https://www.michitravel.com/customtravel/FamilyTravelJapan11.JPG",
       "likes": 29,
+      "liked": false,
       "comments": [
         {
           "name": "Refugio Sparks",
