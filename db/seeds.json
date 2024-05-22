@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Otha Suarez",
-      "profilePicture": "../images/otha-suarez.jpg",
+      "profilePicture": "images/otha-suarez.jpg",
       "dob": "16/06/1995",
       "address": "899 Hessel Grove, New Taylorland, South Australia 9185, Australia",
       "friends": 774,
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "name": "Velma Martinez",
-      "profilePicture": "../images/velma-martinez.png",
+      "profilePicture": "images/velma-martinez.png",
       "dob": "08/09/1986",
       "address": "535 Ryan Grove, Hermistonberg, South Australia 7889, Australia",
       "friends": 361,
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "name": "Timothy Buck",
-      "profilePicture": "../images/timothy-buck.jpg",
+      "profilePicture": "images/timothy-buck.jpg",
       "dob": "22/03/1994",
       "address": "28639 Bayer Crest, Lake Jake, New South Wales 7281, Australia",
       "friends": 460,
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "name": "Darrick Smith",
-      "profilePicture": "../images/darrick-smith.jpg",
+      "profilePicture": "images/darrick-smith.jpg",
       "dob": "03/01/1998",
       "address": "93376 Johnson Parkway, Larsonhaven, Victoria 7904, Australia",
       "friends": 508,
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "name": "Darla Knight",
-      "profilePicture": "../images/darla-knight.jpg",
+      "profilePicture": "images/darla-knight.jpg",
       "dob": "08/02/1991",
       "address": "5721 Reynolds Terrace, Sophiebury, Australian Capital Territory 9541, Australia",
       "friends": 294,
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "name": "Edward Hines",
-      "profilePicture": "../images/edward-hines.jpg",
+      "profilePicture": "images/edward-hines.jpg",
       "dob": "25/08/1996",
       "address": "63453 Lilly Circle, Grahamland, Tasmania 4446, Australia",
       "friends": 629,
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "name": "Will Sampson",
-      "profilePicture": "../images/will-sampson.jpg",
+      "profilePicture": "images/will-sampson.jpg",
       "dob": "11/07/1981",
       "address": "99285 Kirlin View Rd, Port Hayleystad, Tasmania 7362, Australia",
       "friends": 216,
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "name": "Chiyoe Tamada",
-      "profilePicture": "../images/chiyoe-tamada.jpg",
+      "profilePicture": "images/chiyoe-tamada.jpg",
       "dob": "19/11/1998",
       "address": "7806 Lola Run, Boyleview, New South Wales 9423, Australia",
       "friends": 849,
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "name": "Junwei Lang",
-      "profilePicture": "../images/junwei-lang.jpg",
+      "profilePicture": "images/junwei-lang.jpg",
       "dob": "10/12/1993",
       "address": "0765 Hansen Hill, Port Tyler, New South Wales 5805, Australia",
       "friends": 971,
@@ -93,7 +93,7 @@
     {
       "id": 10,
       "name": "Ramlah Razi",
-      "profilePicture": "../images/ramlah-razi.jpg",
+      "profilePicture": "images/ramlah-razi.jpg",
       "dob": "05/05/1997",
       "address": "9619 Hartmann Station St, South Jett, South Australia 8119, Australia",
       "friends": 663,
@@ -103,7 +103,7 @@
     {
       "id": 11,
       "name": "Somkhuan Nan",
-      "profilePicture": "../images/somkhuan-nan.jpg",
+      "profilePicture": "images/somkhuan-nan.jpg",
       "dob": "01/07/1996",
       "address": "85227 Carter Street, South Cody, South Australia 4684, Australia",
       "friends": 525,
@@ -113,7 +113,7 @@
     {
       "id": 12,
       "name": "Missy Wiggins",
-      "profilePicture": "../images/missy-wiggins.jpg",
+      "profilePicture": "images/missy-wiggins.jpg",
       "dob": "04/04/1999",
       "address": "082 Hamish Court, New Isaacport, Australian Capital Territory 5582, Australia",
       "friends": 102,
@@ -125,7 +125,7 @@
   "posts": [
     {
       "id": 1,
-      "profilePicture": "../images/otha-suarez.jpg",
+      "profilePicture": "images/otha-suarez.jpg",
       "name": "Otha Suarez",
       "post": "Today was a very special day. Celebrating Christmas with family and friends! Here is a picture of me admiring this amazing gift from my daughter.",
       "media": "https://www.essence.com/wp-content/uploads/2013/11/images/2013/11/21/169260260.jpg",
@@ -140,7 +140,7 @@
     },
     {
       "id": 2,
-      "profilePicture": "../images/timothy-buck.jpg",
+      "profilePicture": "images/timothy-buck.jpg",
       "name": "Timothy Buck",
       "post": "Hello family and friends, I would like to remind all of you why we celebrate Christmas. Christmas is celebrated to remember the birth of Jesus Christ, who Christians believe is the Son of God. The name 'Christmas' comes from the Mass of Christ (or Jesus). A Mass service (which is sometimes called Communion or Eucharist) is where Christians remember that Jesus died for us and then came back to life. Merry Christmas to you all!",
       "media": [],
@@ -159,7 +159,7 @@
     },
     {
       "id": 3,
-      "profilePicture": "../images/darrick-smith.jpg",
+      "profilePicture": "images/darrick-smith.jpg",
       "name": "Darrick Smith",
       "post": "As the year comes close to another yet quick ending, I just wanna give a big big shout-out to my family and friends for being with me during this rough year.",
       "media": "https://thumbs.dreamstime.com/b/portrait-family-friends-hiking-adventure-forest-119413514.jpg",
@@ -178,7 +178,7 @@
     },
     {
       "id": 4,
-      "profilePicture": "../images/darla-knight.jpg",
+      "profilePicture": "images/darla-knight.jpg",
       "name": "Darla Knight",
       "post": "Who else is going to visit the fireworks tonight??",
       "media": [],
@@ -205,7 +205,7 @@
     },
     {
       "id": 5,
-      "profilePicture": "../images/edward-hines.jpg",
+      "profilePicture": "images/edward-hines.jpg",
       "name": "Edward Hines",
       "post": "Life's going too fast...",
       "media": [],
@@ -215,7 +215,7 @@
     },
     {
       "id": 6,
-      "profilePicture": "../images/chiyoe-tamada.jpg",
+      "profilePicture": "images/chiyoe-tamada.jpg",
       "name": "Chiyoe Tamada",
       "post": "Selling this white elegant dress, pm me for details.",
       "media": "https://i.pinimg.com/originals/9a/16/dd/9a16dd06bca83128a2224aa17b8b2f03.jpg",
@@ -238,7 +238,7 @@
     },
     {
       "id": 7,
-      "profilePicture": "../images/ramlah-razi.jpg",
+      "profilePicture": "images/ramlah-razi.jpg",
       "name": "Ramlah Razi",
       "post": "Japan was amazing!",
       "media": "https://www.michitravel.com/customtravel/FamilyTravelJapan11.JPG",
