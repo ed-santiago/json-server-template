@@ -125,7 +125,7 @@
   "posts": [
     {
       "id": 1,
-      "profilePicture": "https://newprofilepic.photo-cdn.net//assets/images/article/profile.jpg?90af0c8",
+      "profilePicture": "images/otha-suarez.jpg",
       "name": "Otha Suarez",
       "post": "Today was a very special day. Celebrating Christmas with family and friends! Here is a picture of me admiring this amazing gift from my daughter.",
       "media": "https://www.essence.com/wp-content/uploads/2013/11/images/2013/11/21/169260260.jpg",
@@ -140,7 +140,7 @@
     },
     {
       "id": 2,
-      "profilePicture": "https://i.pinimg.com/736x/c1/6e/88/c16e886fcb1cd1d5f764158e9b7b4234.jpg",
+      "profilePicture": "images/timothy-buck.jpg",
       "name": "Timothy Buck",
       "post": "Hello family and friends, I would like to remind all of you why we celebrate Christmas. Christmas is celebrated to remember the birth of Jesus Christ, who Christians believe is the Son of God. The name 'Christmas' comes from the Mass of Christ (or Jesus). A Mass service (which is sometimes called Communion or Eucharist) is where Christians remember that Jesus died for us and then came back to life. Merry Christmas to you all!",
       "media": [],
@@ -159,7 +159,7 @@
     },
     {
       "id": 3,
-      "profilePicture": "https://reviews.tn/wp-content/uploads/2021/05/photo-de-profil-aesthetic-gars_12.jpg",
+      "profilePicture": "images/darrick-smith.jpg",
       "name": "Darrick Smith",
       "post": "As the year comes close to another yet quick ending, I just wanna give a big big shout-out to my family and friends for being with me during this rough year.",
       "media": "https://thumbs.dreamstime.com/b/portrait-family-friends-hiking-adventure-forest-119413514.jpg",
@@ -178,7 +178,7 @@
     },
     {
       "id": 4,
-      "profilePicture": "https://i.pinimg.com/564x/59/ef/6e/59ef6e3efdc2cb6991bbe4e98bc54690.jpg",
+      "profilePicture": "images/darla-knight.jpg",
       "name": "Darla Knight",
       "post": "Who else is going to visit the fireworks tonight??",
       "media": [],
@@ -205,7 +205,7 @@
     },
     {
       "id": 5,
-      "profilePicture": "https://i.pinimg.com/736x/22/2b/5a/222b5ae2f7b5f71edf869141fb3d8e3a.jpg",
+      "profilePicture": "images/edward-hines.jpg",
       "name": "Edward Hines",
       "post": "Life's going too fast...",
       "media": [],
@@ -215,7 +215,7 @@
     },
     {
       "id": 6,
-      "profilePicture": "https://i.pinimg.com/736x/0d/92/ba/0d92ba3e84b9f15dea2659fb4d8b6dfd.jpg",
+      "profilePicture": "images/chiyoe-tamada.jpg",
       "name": "Chiyoe Tamada",
       "post": "Selling this white elegant dress, pm me for details.",
       "media": "https://i.pinimg.com/originals/9a/16/dd/9a16dd06bca83128a2224aa17b8b2f03.jpg",
@@ -238,7 +238,7 @@
     },
     {
       "id": 7,
-      "profilePicture": "https://i.pinimg.com/736x/80/22/98/8022987874bc8f3b5ad10bd5d2039293.jpg",
+      "profilePicture": "images/ramlah-razi.jpg",
       "name": "Ramlah Razi",
       "post": "Japan was amazing!",
       "media": "https://www.michitravel.com/customtravel/FamilyTravelJapan11.JPG",
